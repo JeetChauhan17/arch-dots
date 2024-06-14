@@ -1,0 +1,314 @@
+2024-06-09 17:26:02.993 [info] Extension host with pid 21348 started
+2024-06-09 17:26:03.541 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-09 17:26:03.546 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.567 [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.570 [info] ExtensionService#_doActivateExtension etmoffat.pip-packages, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.575 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.578 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.589 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.722 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-09 17:26:03.791 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-09 17:26:04.058 [info] Eager extensions activated
+2024-06-09 17:26:04.064 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-09 17:26:04.133 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.137 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.158 [info] ExtensionService#_doActivateExtension BrandonKirbyson.vscode-animations, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.163 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.209 [info] ExtensionService#_doActivateExtension drcika.apc-extension, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.217 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.512 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.515 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.629 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.681 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.845 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.929 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:04.957 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:05.598 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:26:05.771 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2024-06-09 17:26:06.065 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-09 17:26:06.092 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-09 17:26:06.162 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-09 17:26:06.172 [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation, startup: false, activationEvent: 'onLanguage'
+2024-06-09 17:27:23.631 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-09 17:27:23.780 [error] Canceled: Canceled
+    at new A (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+    at E.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+    at Proxy.z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at I.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+    at h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+    at w (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1453:39714)
+    at c (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1453:44753)
+    at ActionRunners._updateContextKeys (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:18425)
+    at s (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:16869)
+    at RegisteredActionRunner.unregister (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:17012)
+    at RegisteredActionRunner.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:15665)
+    at ActionRunners.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:16452)
+    at /home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1412:20105
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1412:20087)
+    at f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at u.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+    at Array.map (<anonymous>)
+    at u.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+    at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-09 17:27:23.785 [error] Canceled: Canceled
+    at new A (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+    at E.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+    at Proxy.z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at I.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+    at h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+    at w (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1453:39714)
+    at c (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1453:44753)
+    at ActionRunners._updateContextKeys (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:18425)
+    at s (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:16869)
+    at RegisteredActionRunner.unregister (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:17012)
+    at RegisteredActionRunner.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:15665)
+    at ActionRunners.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:16452)
+    at /home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1412:20105
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1412:20087)
+    at f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at u.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+    at Array.map (<anonymous>)
+    at u.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+    at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-09 17:27:23.786 [error] Canceled: Canceled
+    at new A (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+    at E.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+    at Proxy.z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at I.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+    at h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+    at w (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1453:39714)
+    at c (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1453:44753)
+    at ActionRunners._updateContextKeys (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:18425)
+    at s (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:16869)
+    at RegisteredActionRunner.unregister (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:17012)
+    at RegisteredActionRunner.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:15665)
+    at Object.dispose (/home/jeet/.vscode/extensions/eamodio.gitlens-15.1.0/dist/gitlens.js:1099:17106)
+    at f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at u.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+    at Array.map (<anonymous>)
+    at u.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+    at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-09 17:27:23.787 [error] Canceled: Canceled
+    at new A (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+    at E.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+    at Proxy.z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at I.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+    at h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+    at h.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+    at h.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+    at q2.reset (/home/jeet/.vscode/extensions/github.vscode-pull-request-github-0.88.1/dist/extension.js:2188:8858)
+    at q2.dispose (/home/jeet/.vscode/extensions/github.vscode-pull-request-github-0.88.1/dist/extension.js:2188:9129)
+    at f (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at u.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+    at Array.map (<anonymous>)
+    at u.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+    at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-09 17:27:23.793 [info] Extension host with pid 21348 exiting with code 0
+2024-06-09 17:27:27.637 [info] Extension host with pid 21669 started
+2024-06-09 17:27:27.637 [info] Skipping acquiring lock for /home/jeet/.config/Code/User/workspaceStorage/fbd2f5c9367c3a92ac053cfd68684024.
+2024-06-09 17:27:28.084 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-09 17:27:28.101 [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation, startup: false, activationEvent: 'onLanguage'
+2024-06-09 17:27:28.170 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-06-09 17:27:28.247 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:javascript'
+2024-06-09 17:27:28.410 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+2024-06-09 17:27:29.295 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-09 17:27:29.304 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2024-06-09 17:27:29.365 [info] ExtensionService#_doActivateExtension Cardinal90.multi-cursor-case-preserve, startup: true, activationEvent: '*'
+2024-06-09 17:27:29.374 [info] ExtensionService#_doActivateExtension etmoffat.pip-packages, startup: true, activationEvent: '*'
+2024-06-09 17:27:29.385 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-06-09 17:27:29.391 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-06-09 17:27:29.412 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-06-09 17:27:30.637 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-09 17:27:30.735 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-09 17:27:31.817 [info] Eager extensions activated
+2024-06-09 17:27:31.830 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:31.845 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:31.867 [info] ExtensionService#_doActivateExtension BrandonKirbyson.vscode-animations, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:31.879 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:31.965 [info] ExtensionService#_doActivateExtension drcika.apc-extension, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:32.016 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:32.323 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:32.327 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:32.534 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:32.809 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-06-09 17:27:32.944 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:33.522 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:33.610 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:33.655 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:27:35.398 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: eamodio.gitlens
+2024-06-09 17:27:36.335 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-09 17:27:36.476 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-06-09 17:36:29.783 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-06-09 17:37:59.698 [error] Error: Illegal value for `line`
+    at d.t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:961)
+    at Object.rangeOffset [as lineAt] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:90)
+    at /home/jeet/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:319:41
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:20722)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+    at S.$acceptModelChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:81758)
+    at E.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+    at E.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+    at E.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+    at E.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-06-09 17:52:25.332 [error] Error: [ExtensionListenerError] Extension 'Cardinal90.multi-cursor-case-preserve' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'line')
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:20749)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+    at p.$acceptEditorPropertiesChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:33337)
+    at E.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+    at E.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+    at E.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+    at E.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-06-09 17:52:25.613 [error] Error: [ExtensionListenerError] Extension 'Cardinal90.multi-cursor-case-preserve' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'line')
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:20749)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+    at p.$acceptEditorPropertiesChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:33337)
+    at E.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+    at E.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+    at E.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+    at E.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-06-09 17:52:26.649 [error] Error: [ExtensionListenerError] Extension 'Cardinal90.multi-cursor-case-preserve' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'line')
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:20749)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+    at p.$acceptEditorPropertiesChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:33337)
+    at E.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+    at E.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+    at E.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+    at E.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-06-09 17:52:26.948 [error] Error: [ExtensionListenerError] Extension 'Cardinal90.multi-cursor-case-preserve' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'line')
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:20749)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+    at p.$acceptEditorPropertiesChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:33337)
+    at E.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+    at E.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+    at E.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+    at E.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-06-09 17:52:27.187 [error] Error: [ExtensionListenerError] Extension 'Cardinal90.multi-cursor-case-preserve' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'line')
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:20749)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+    at p.$acceptEditorPropertiesChanged (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:155:33337)
+    at E.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+    at E.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+    at E.M (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4762)
+    at E.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at n.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+    at l.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)

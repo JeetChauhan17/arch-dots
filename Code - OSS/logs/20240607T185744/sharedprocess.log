@@ -1,0 +1,38 @@
+2024-06-07 18:58:02.336 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jeet/.vscode-oss/extensions
+2024-06-07 18:58:02.918 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jeet/.vscode-oss/extensions
+2024-06-07 18:59:56.270 [info] Getting Manifest... mateuszdrewniak.theme-dracula-dark-plus
+2024-06-07 18:59:56.651 [info] Installing extension: mateuszdrewniak.theme-dracula-dark-plus
+2024-06-07 18:59:58.707 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-07 18:59:58.708 [info] Extension signature verification is not done: mateuszdrewniak.theme-dracula-dark-plus
+2024-06-07 18:59:58.785 [info] Extracted extension to file:///home/jeet/.vscode-oss/extensions/mateuszdrewniak.theme-dracula-dark-plus-2.24.4-universal: mateuszdrewniak.theme-dracula-dark-plus
+2024-06-07 18:59:58.852 [info] Renamed to /home/jeet/.vscode-oss/extensions/mateuszdrewniak.theme-dracula-dark-plus-2.24.4-universal
+2024-06-07 18:59:58.855 [info] Extracting extension completed. mateuszdrewniak.theme-dracula-dark-plus
+2024-06-07 18:59:58.927 [info] Extension installed successfully: mateuszdrewniak.theme-dracula-dark-plus
+2024-06-07 18:59:58.940 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/jeet/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/jeet/.vscode-oss/extensions/extensions.json.vsctmp'
+    at a.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-07 19:00:15.027 [info] Getting Manifest... s-nlf-fh.glassit
+2024-06-07 19:00:15.419 [info] Installing extension: s-nlf-fh.glassit
+2024-06-07 19:00:20.712 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-06-07 19:00:20.712 [info] Extension signature verification is not done: s-nlf-fh.glassit
+2024-06-07 19:00:20.889 [info] Extracted extension to file:///home/jeet/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal: s-nlf-fh.glassit
+2024-06-07 19:00:20.947 [info] Renamed to /home/jeet/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal
+2024-06-07 19:00:20.949 [info] Extracting extension completed. s-nlf-fh.glassit
+2024-06-07 19:00:21.020 [info] Extension installed successfully: s-nlf-fh.glassit
+2024-06-07 19:00:21.039 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/jeet/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/jeet/.vscode-oss/extensions/extensions.json.vsctmp'
+    at a.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

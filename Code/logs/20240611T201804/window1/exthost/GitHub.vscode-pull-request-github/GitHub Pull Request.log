@@ -1,0 +1,6 @@
+2024-06-11 20:19:00.399 [warning] /home/jeet/.ssh/config: ENOENT: no such file or directory, open '/home/jeet/.ssh/config'
+2024-06-11 20:19:00.399 [info] Activation> Extension version: 0.88.1
+2024-06-11 20:19:01.999 [info] Looking for git repository
+2024-06-11 20:19:01.999 [info] Found 0 repositories during activation
+2024-06-11 20:19:01.999 [info] Git repository found, initializing review manager and pr tree view.
+2024-06-11 20:19:02.001 [info] Registering git provider

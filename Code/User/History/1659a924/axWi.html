@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input type="text" id="text" />
+    <button onclick="heheheha()">click</button>
+  </body>
+  <script>
+
+    function heheheha(){
+        const data = document.getElementById("text")
+
+        let value = data.value
+        console.log(value);
+
+        fetch('http://localhost:3000/convo', {method:"POST", headers:{'Content-Type':'text/plain' }, body: value}).then(data => console.log(data))
+
+        any type that is not
+    }
+  </script>
+</html>

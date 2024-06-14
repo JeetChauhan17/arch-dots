@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube focus mode",
+    "version": "1.0",
+    "description": "Pauses YouTube video when tab is switched and resumes with delay when tab is activated.",
+    "permissions": [
+      "tabs",
+      "activeTab"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

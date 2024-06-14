@@ -1,0 +1,6 @@
+2024/06/14-17:42:04.157 5b8 Reusing MANIFEST /home/jeet/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/14-17:42:04.158 5b8 Recovering log #3
+2024/06/14-17:42:04.429 5b8 Reusing old log /home/jeet/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/06/14-17:42:21.411 5a8 Level-0 table #5: started
+2024/06/14-17:42:21.515 5a8 Level-0 table #5: 2687113 bytes OK
+2024/06/14-17:42:21.558 5a8 Delete type=0 #3

@@ -1,0 +1,37 @@
+2024-06-09 16:17:23.982 [error] Cannot read properties of undefined (reading 'activate'): TypeError: Cannot read properties of undefined (reading 'activate')
+    at B.centerLayout (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:50386)
+    at H.centerMainEditorLayout (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:95276)
+    at u.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:73552)
+    at h.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at h.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at B.qc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:51419)
+    at B.pc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:51148)
+    at B.oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:50681)
+    at B.nc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:50505)
+    at B.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:48326)
+    at B.create (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:802:76545)
+    at H.rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:124810)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:121783
+    at b.invokeFunction (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:650:684)
+    at H.startup (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:121430)
+    at te.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2387:126237)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.js:4:9483
+2024-06-09 16:17:25.693 [info] Started local extension host with pid 17899.
+2024-06-09 16:17:25.831 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-06-09 16:17:30.041 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-09 16:17:32.896 [info] [perf] Render performance baseline is 53ms
+2024-06-09 16:17:34.671 [info] Extension host (LocalProcess pid: 17899) is unresponsive.
+2024-06-09 16:17:36.388 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-09 16:17:37.145 [info] Extension host (LocalProcess pid: 17899) is responsive.
+2024-06-09 16:17:37.146 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-09 16:17:40.264 [error] Error: ENOENT: no such file or directory, stat '/home/jeet/.config/Code/logs/20240609T161714/window1/exthost/output_logging_20240609T161729/4-Pip package updater.log': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/jeet/.config/Code/logs/20240609T161714/window1/exthost/output_logging_20240609T161729/4-Pip package updater.log'
+    at b.create (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:56:3698)
+    at P (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:56:3816)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:61:37735)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:61:30083)
+2024-06-09 16:17:44.545 [info] Extension host (LocalProcess pid: 17899) is unresponsive.
+2024-06-09 16:17:45.161 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-09 16:17:51.714 [info] Extension host (LocalProcess pid: 17899) is responsive.
+2024-06-09 16:17:53.451 [error] [Extension Host] (node:17899) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

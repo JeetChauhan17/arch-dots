@@ -1,0 +1,21 @@
+{
+  "editor.mouseWheelZoom": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.smoothScrolling": true,
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "editor.linkedEditing": true,
+  // "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "git.autofetch": true,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "glassit.alpha": 255,
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+  "workbench.colorTheme": "Monokai"
+}

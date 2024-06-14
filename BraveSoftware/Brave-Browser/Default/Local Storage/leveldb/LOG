@@ -1,0 +1,24 @@
+2024/06/14-16:21:23.426 4 Reusing MANIFEST /home/jeet/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/14-16:21:23.478 4 Recovering log #60
+2024/06/14-16:21:23.514 4 Reusing old log /home/jeet/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000060.log 
+2024/06/14-16:28:48.863 6 Level-0 table #64: started
+2024/06/14-16:28:48.956 6 Level-0 table #64: 18726 bytes OK
+2024/06/14-16:28:48.999 6 Delete type=0 #60
+2024/06/14-16:28:49.001 6 Compacting 4@0 + 1@1 files
+2024/06/14-16:28:49.047 6 Generated table #65@0: 267 keys, 53493 bytes
+2024/06/14-16:28:49.047 6 Compacted 4@0 + 1@1 files => 53493 bytes
+2024/06/14-16:28:49.096 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/14-16:28:49.098 6 Delete type=2 #56
+2024/06/14-16:28:49.098 6 Delete type=2 #53
+2024/06/14-16:28:49.098 6 Delete type=2 #59
+2024/06/14-16:28:49.098 6 Delete type=2 #61
+2024/06/14-16:28:49.098 6 Delete type=2 #64
+2024/06/14-17:23:28.752 6 Level-0 table #67: started
+2024/06/14-17:23:28.810 6 Level-0 table #67: 12687 bytes OK
+2024/06/14-17:23:28.860 6 Delete type=0 #63
+2024/06/14-17:45:39.579 6 Level-0 table #69: started
+2024/06/14-17:45:39.639 6 Level-0 table #69: 29431 bytes OK
+2024/06/14-17:45:39.774 6 Delete type=0 #66
+2024/06/14-17:49:02.795 6 Level-0 table #71: started
+2024/06/14-17:49:02.854 6 Level-0 table #71: 22274 bytes OK
+2024/06/14-17:49:02.893 6 Delete type=0 #68

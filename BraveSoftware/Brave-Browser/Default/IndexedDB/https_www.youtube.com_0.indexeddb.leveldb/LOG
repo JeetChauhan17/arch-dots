@@ -1,0 +1,12 @@
+2024/06/14-16:31:48.267 5a8 Reusing MANIFEST /home/jeet/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/14-16:31:48.267 5a8 Recovering log #45
+2024/06/14-16:31:48.274 5a8 Reusing old log /home/jeet/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000045.log 
+2024/06/14-16:40:08.788 5a9 Level-0 table #51: started
+2024/06/14-16:40:08.877 5a9 Level-0 table #51: 1465267 bytes OK
+2024/06/14-16:40:08.921 5a9 Delete type=0 #45
+2024/06/14-16:44:01.105 5a9 Compacting 1@1 + 1@2 files
+2024/06/14-16:44:01.167 5a9 Generated table #52@1: 396 keys, 32522 bytes
+2024/06/14-16:44:01.167 5a9 Compacted 1@1 + 1@2 files => 32522 bytes
+2024/06/14-16:44:01.207 5a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/14-16:44:01.208 5a9 Delete type=2 #48
+2024/06/14-16:44:01.208 5a9 Delete type=2 #51

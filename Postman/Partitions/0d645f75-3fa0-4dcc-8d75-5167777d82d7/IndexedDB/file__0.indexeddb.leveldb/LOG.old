@@ -1,0 +1,10 @@
+2024/06/09-22:16:46.862 1b0d2 Creating DB /home/jeet/.config/Postman/Partitions/0d645f75-3fa0-4dcc-8d75-5167777d82d7/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2024/06/09-22:16:46.985 1b0d2 Reusing MANIFEST /home/jeet/.config/Postman/Partitions/0d645f75-3fa0-4dcc-8d75-5167777d82d7/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-22:16:47.119 1b0d0 Level-0 table #5: started
+2024/06/09-22:16:47.163 1b0d0 Level-0 table #5: 492 bytes OK
+2024/06/09-22:16:47.275 1b0d0 Delete type=0 #3
+2024/06/09-22:16:47.275 1b0d0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/09-22:16:47.331 1b0bb Level-0 table #7: started
+2024/06/09-22:16:47.387 1b0bb Level-0 table #7: 477 bytes OK
+2024/06/09-22:16:47.521 1b0bb Delete type=0 #4
+2024/06/09-22:16:47.521 1b0bb Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

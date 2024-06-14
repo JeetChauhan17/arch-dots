@@ -1,0 +1,88 @@
+2024-06-07 18:58:01.666 [info] Started local extension host with pid 4165.
+2024-06-07 18:58:01.869 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jeet/.vscode-oss/extensions
+2024-06-07 18:58:03.254 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jeet/.vscode-oss/extensions
+2024-06-07 18:58:06.442 [info] [perf] Render performance baseline is 50ms
+2024-06-07 18:59:39.332 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:21759)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async ne.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async ne.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 18:59:39.863 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 19:00:05.069 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 19:00:06.676 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:21759)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async ne.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async ne.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 19:00:07.345 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 19:00:47.815 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:21759)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async ne.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async ne.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 19:00:48.779 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-07 19:03:27.952 [error] Could not find category with ID: undefined: Error: Could not find category with ID: undefined
+    at pe.rc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2398:79664)
+    at pe.makeCategoryVisibleWhenAvailable (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2398:61438)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2398:90196
+2024-06-07 19:03:27.956 [error] Assertion Failed: argument is undefined or null: Error: Assertion Failed: argument is undefined or null
+    at u (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:95:10170)
+    at pe.hc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2398:64138)
+    at pe.layout (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2398:78521)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2150:25262
+    at n.W (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2150:25381)
+    at n.layout (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2150:25248)
+    at ee.layout (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:32788)
+    at ee.relayout (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2307:32914)
+    at Q.Mc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2204:58007)
+    at R.d (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2204:57531)
+    at R.execute (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:152:31675)
+    at dt (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:152:31948)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:152:32160

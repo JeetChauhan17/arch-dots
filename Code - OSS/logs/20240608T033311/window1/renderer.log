@@ -1,0 +1,24 @@
+2024-06-08 03:33:20.861 [info] Started local extension host with pid 22965.
+2024-06-08 03:33:26.611 [info] [perf] Render performance baseline is 100ms
+2024-06-08 03:33:41.886 [info] Started local extension host with pid 23094.
+2024-06-08 03:33:44.855 [info] [perf] Render performance baseline is 57ms
+2024-06-08 03:34:01.722 [info] Started local extension host with pid 23234.
+2024-06-08 03:36:14.035 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032
+2024-06-08 03:36:21.430 [info] Started local extension host with pid 23510.
+2024-06-08 03:36:56.099 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2413:13032

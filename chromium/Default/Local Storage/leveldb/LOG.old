@@ -1,0 +1,13 @@
+2024/06/07-21:03:22.229 4 Reusing MANIFEST /home/jeet/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/07-21:03:22.247 4 Recovering log #14
+2024/06/07-21:03:22.352 4 Level-0 table #16: started
+2024/06/07-21:03:22.485 4 Level-0 table #16: 17821 bytes OK
+2024/06/07-21:03:22.651 4 Delete type=0 #14
+2024/06/07-21:03:22.700 5 Compacting 4@0 + 0@1 files
+2024/06/07-21:03:23.229 5 Generated table #18@0: 8 keys, 18305 bytes
+2024/06/07-21:03:23.229 5 Compacted 4@0 + 0@1 files => 18305 bytes
+2024/06/07-21:03:23.436 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/07-21:03:23.439 5 Delete type=2 #10
+2024/06/07-21:03:23.439 5 Delete type=2 #13
+2024/06/07-21:03:23.439 5 Delete type=2 #7
+2024/06/07-21:03:23.440 5 Delete type=2 #16

@@ -1,0 +1,33 @@
+2024-06-11 00:11:17.537 [error] Cannot read properties of undefined (reading 'activate'): TypeError: Cannot read properties of undefined (reading 'activate')
+    at B.centerLayout (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:50386)
+    at H.centerMainEditorLayout (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:95276)
+    at u.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:73552)
+    at h.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:729)
+    at h.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:89:945)
+    at B.qc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:51419)
+    at B.pc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:51148)
+    at B.oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:50681)
+    at B.nc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:50505)
+    at B.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:48326)
+    at B.create (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:802:76545)
+    at H.rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:124810)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:121783
+    at b.invokeFunction (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:650:684)
+    at H.startup (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:121430)
+    at te.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2387:126237)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.js:4:9483
+2024-06-11 00:11:23.885 [info] Started local extension host with pid 9074.
+2024-06-11 00:11:24.216 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-06-11 00:11:27.668 [info] Extension host (LocalProcess pid: 9074) is unresponsive.
+2024-06-11 00:11:27.789 [info] Extension host (LocalProcess pid: 9074) is responsive.
+2024-06-11 00:11:30.011 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:31.747 [info] Extension host (LocalProcess pid: 9074) is unresponsive.
+2024-06-11 00:11:33.228 [info] [perf] Render performance baseline is 90ms
+2024-06-11 00:11:42.554 [info] Extension host (LocalProcess pid: 9074) is responsive.
+2024-06-11 00:11:47.583 [info] Extension host (LocalProcess pid: 9074) is unresponsive.
+2024-06-11 00:11:48.970 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 00:11:53.882 [info] Extension host (LocalProcess pid: 9074) is responsive.
+2024-06-11 00:11:53.883 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-11 00:11:58.194 [error] [Extension Host] (node:9074) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

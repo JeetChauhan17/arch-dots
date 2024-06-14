@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Auto Pause/Play",
+    "version": "1.0",
+    "description": "Pauses YouTube video when tab is switched and resumes delay when tab is activated.",
+    "permissions": [
+      "tabs",
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

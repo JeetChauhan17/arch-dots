@@ -1,0 +1,7 @@
+2024/06/09-16:13:32.185 dbc Reusing MANIFEST /home/jeet/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-16:13:32.185 dbc Recovering log #3
+2024/06/09-16:13:32.186 dbc Reusing old log /home/jeet/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
+2024/06/09-16:14:05.217 dbd Level-0 table #5: started
+2024/06/09-16:14:05.261 dbd Level-0 table #5: 22697 bytes OK
+2024/06/09-16:14:05.304 dbd Delete type=0 #3
+2024/06/09-16:14:05.305 dbd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+2024-06-11 20:18:23.137 [info] Started local extension host with pid 1920.
+2024-06-11 20:18:30.431 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 20:18:31.690 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-06-11 20:18:35.354 [info] [perf] Render performance baseline is 40ms
+2024-06-11 20:18:36.592 [info] Extension host (LocalProcess pid: 1920) is unresponsive.
+2024-06-11 20:18:37.878 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 20:18:43.211 [info] Extension host (LocalProcess pid: 1920) is responsive.
+2024-06-11 20:18:50.715 [info] Extension host (LocalProcess pid: 1920) is unresponsive.
+2024-06-11 20:18:51.380 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 20:18:56.766 [info] Extension host (LocalProcess pid: 1920) is responsive.
+2024-06-11 20:19:00.058 [error] [Extension Host] (node:1920) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

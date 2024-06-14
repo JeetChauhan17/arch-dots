@@ -1,0 +1,15 @@
+output <LVDS-1> resolution 1920x1080
+
+set $term bash
+
+set $browser brave-bin
+
+bindsym $mod+Return exec $term
+bindsym $mod+SPACE exec "rofi -show drun"
+bindsym $mod+q kill
+bindsym $mod+Shift+c reload
+bindsym $mod+Shift+r restart
+
+floating_modifier $mod
+
+resize_edge_modifier $mod

@@ -1,0 +1,23 @@
+2024-06-11 20:48:45.103 [info] Started local extension host with pid 1784.
+2024-06-11 20:48:53.564 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 20:48:54.801 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-06-11 20:48:58.416 [info] [perf] Render performance baseline is 44ms
+2024-06-11 20:49:00.299 [info] Extension host (LocalProcess pid: 1784) is unresponsive.
+2024-06-11 20:49:02.209 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 20:49:06.484 [info] Extension host (LocalProcess pid: 1784) is responsive.
+2024-06-11 20:49:06.484 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-11 20:49:09.633 [info] Extension host (LocalProcess pid: 1784) is unresponsive.
+2024-06-11 20:49:10.180 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 20:49:12.333 [info] Extension host (LocalProcess pid: 1784) is responsive.
+2024-06-11 20:49:12.334 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-06-11 20:49:19.098 [info] Extension host (LocalProcess pid: 1784) is unresponsive.
+2024-06-11 20:49:19.796 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 20:49:25.573 [error] Error while registering log channel file:///home/jeet/.config/Code/logs/20240611T204827/window1/exthost/vscode.typescript-language-features/TypeScript.log Timed out while waiting for file to be created
+2024-06-11 20:49:26.151 [error] Error while registering log channel file:///home/jeet/.config/Code/logs/20240611T204827/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log Timed out while waiting for file to be created
+2024-06-11 20:49:30.780 [info] Extension host (LocalProcess pid: 1784) is responsive.
+2024-06-11 20:49:35.970 [info] Extension host (LocalProcess pid: 1784) is unresponsive.
+2024-06-11 20:49:36.457 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-06-11 20:49:36.627 [error] [Extension Host] (node:1784) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-06-11 20:49:36.628 [info] Extension host (LocalProcess pid: 1784) is responsive.
+2024-06-11 20:49:36.629 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

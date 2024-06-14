@@ -1,0 +1,20 @@
+{
+    "manifest-version": 3,
+    "name": "Youtube-pauser",
+    "version": 1.0,
+    "description": "An extension that helps you focus while you wokring and watching yoututbe simultaneously. ",
+    "permissions": [
+        "active-tab"
+    ],
+
+    "background"{
+        "service-worker": "background.js"
+},
+"action"{
+
+
+}
+
+
+
+}

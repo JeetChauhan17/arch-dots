@@ -1,0 +1,75 @@
+2024-06-11 00:11:28.082 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.111 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.130 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.295 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.311 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.325 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.337 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:28.351 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:29.128 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:29.542 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:29.956 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:30.774 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:31.249 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:31.292 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:31.641 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:32.204 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:33.265 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:33.435 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:33.617 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:36.084 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-06-11 00:11:36.086 [info] Getting Manifest... rust-lang.rust-analyzer
+2024-06-11 00:11:36.183 [info] Installing extension: ms-vscode.cmake-tools vscode-userdata:/home/jeet/.vscode/extensions/extensions.json
+2024-06-11 00:11:36.210 [info] Installing extension: rust-lang.rust-analyzer vscode-userdata:/home/jeet/.vscode/extensions/extensions.json
+2024-06-11 00:11:36.407 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:36.455 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:36.684 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:36.731 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:36.997 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:37.062 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:42.414 [info] Extension signature verification result for ms-vscode.cmake-tools: UnknownError. Executed: true. Duration: 2603ms.
+2024-06-11 00:11:44.043 [info] Extracted extension to file:///home/jeet/.vscode/extensions/ms-vscode.cmake-tools-1.18.42: ms-vscode.cmake-tools
+2024-06-11 00:11:44.047 [info] Renamed to /home/jeet/.vscode/extensions/ms-vscode.cmake-tools-1.18.42
+2024-06-11 00:11:44.564 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:44.581 [info] Marked extension as uninstalled ms-vscode.cmake-tools-1.18.41
+2024-06-11 00:11:44.636 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/jeet/.vscode/extensions/extensions.json
+2024-06-11 00:11:44.654 [info] Extension signature verification result for rust-lang.rust-analyzer: UnknownError. Executed: true. Duration: 11ms.
+2024-06-11 00:11:45.366 [info] Extracted extension to file:///home/jeet/.vscode/extensions/rust-lang.rust-analyzer-0.3.1992-linux-x64: rust-lang.rust-analyzer
+2024-06-11 00:11:45.532 [info] Renamed to /home/jeet/.vscode/extensions/rust-lang.rust-analyzer-0.3.1992-linux-x64
+2024-06-11 00:11:45.953 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1983-linux-x64
+2024-06-11 00:11:45.965 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:11:46.097 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/jeet/.vscode/extensions/extensions.json
+2024-06-11 00:12:04.702 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:12:43.499 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:12:56.808 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:13:10.166 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:13:23.368 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:13:37.909 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:16:33.806 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:18:38.551 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:18:59.117 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:20:36.305 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:20:53.468 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:21:34.103 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:25:54.079 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:26:34.352 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:30:54.665 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:31:34.622 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:35:03.907 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:35:30.268 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:36:09.140 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:36:34.840 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:41:09.795 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:41:35.068 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:46:10.440 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:46:35.325 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:51:11.076 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:51:35.561 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:56:11.744 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 00:56:35.824 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 01:01:12.321 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 01:01:36.040 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 01:06:12.938 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 01:06:36.261 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 01:11:13.529 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-11 01:11:36.555 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.

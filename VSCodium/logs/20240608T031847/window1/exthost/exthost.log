@@ -1,0 +1,54 @@
+2024-06-08 03:18:49.875 [info] Extension host with pid 21114 started
+2024-06-08 03:18:49.876 [info] Skipping acquiring lock for /home/jeet/.config/VSCodium/User/workspaceStorage/8ddb89a8926c62c29f77ec33c7b086f2.
+2024-06-08 03:18:50.134 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-08 03:18:50.148 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-08 03:18:51.092 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-08 03:18:51.098 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-06-08 03:18:51.248 [error] Activating extension s-nlf-fh.glassit failed due to an error:
+2024-06-08 03:18:51.248 [error] Error: Command failed: pgrep 'code'
+	at checkExecSyncError (node:child_process:905:11)
+	at Object.execSync (node:child_process:977:15)
+	at Object.execSync (node:electron/js2c/node_init:2:13035)
+	at activate (/home/jeet/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal/extension.js:46:31)
+	at K._callActivateOptional (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:17253)
+	at K._callActivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:16914)
+	at /usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:14618
+	at async a._activate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:7970)
+	at async a._waitForDepsThenActivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:7912)
+	at async a._initialize (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:7276)
+2024-06-08 03:18:51.270 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-08 03:18:51.309 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-08 03:18:51.396 [info] Eager extensions activated
+2024-06-08 03:18:51.450 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 03:18:51.453 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 03:19:01.797 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-08 03:19:01.827 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-08 03:19:05.220 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-08 03:19:05.240 [info] Extension host with pid 21114 exiting with code 0
+2024-06-08 03:19:05.900 [info] Extension host with pid 21217 started
+2024-06-08 03:19:05.900 [info] Skipping acquiring lock for /home/jeet/.config/VSCodium/User/workspaceStorage/8ddb89a8926c62c29f77ec33c7b086f2.
+2024-06-08 03:19:05.926 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-08 03:19:05.935 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-08 03:19:05.973 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-08 03:19:05.993 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-08 03:19:06.377 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: false, activationEvent: '*'
+2024-06-08 03:19:06.462 [error] Activating extension s-nlf-fh.glassit failed due to an error:
+2024-06-08 03:19:06.462 [error] Error: Command failed: pgrep 'code'
+	at checkExecSyncError (node:child_process:905:11)
+	at Object.execSync (node:child_process:977:15)
+	at Object.execSync (node:electron/js2c/node_init:2:13035)
+	at activate (/home/jeet/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal/extension.js:46:31)
+	at K._callActivateOptional (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:17253)
+	at K._callActivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:16914)
+	at /usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:14618
+	at async a._activate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:7970)
+	at async a._waitForDepsThenActivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:7912)
+	at async a._initialize (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:7276)
+2024-06-08 03:19:06.710 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-08 03:19:06.715 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-08 03:19:06.743 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-08 03:19:06.795 [info] Eager extensions activated
+2024-06-08 03:19:06.825 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 03:19:06.828 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 03:31:16.746 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-08 03:31:16.769 [info] Extension host with pid 21217 exiting with code 0

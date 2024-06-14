@@ -1,0 +1,6 @@
+2024-06-13 23:15:27.729 [info] Started local extension host with pid 3051.
+2024-06-13 23:15:31.462 [warning] No search provider registered for scheme: file, waiting
+2024-06-13 23:15:35.180 [info] [perf] Render performance baseline is 45ms
+2024-06-13 23:15:36.643 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-06-13 23:15:42.111 [error] [Extension Host] (node:3051) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
